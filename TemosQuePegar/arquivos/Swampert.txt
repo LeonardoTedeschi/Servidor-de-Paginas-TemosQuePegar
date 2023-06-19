@@ -1,0 +1,8 @@
+Swampert @ Swampertite
+Ability: Damp
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Waterfall
+- Earthquake
+- Ice Punch
+- Flip Turn

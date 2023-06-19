@@ -1,0 +1,8 @@
+Blastoise @ Sitrus Berry
+Ability: Torrent
+EVs: 252 HP / 216 Def / 40 SpD
+Impish Nature
+- Fake Out
+- Follow Me
+- Flip Turn
+- Toxic

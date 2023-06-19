@@ -1,0 +1,8 @@
+Meganium @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+- Aromatherapy
+- Giga Drain
+- Synthesis
+- Dragon Tail

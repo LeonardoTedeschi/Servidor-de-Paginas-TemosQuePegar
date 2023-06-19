@@ -1,0 +1,18 @@
+Charizard @ Charizardite Y
+Ability: Drought
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Fire Blast
+- Solar Beam
+- Scorching Sands
+- Roost
+
+----------------------------
+Charizard @ Charizardite X
+Ability: Tough Claws
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Flare Blitz
+- Earthquake
+- Roost

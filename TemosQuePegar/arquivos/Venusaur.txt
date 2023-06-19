@@ -1,0 +1,8 @@
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+EVs: 248 HP / 176 Def / 68 SpD / 16 Spe
+Bold Nature
+- Sludge Bomb
+- Synthesis
+- Earth Power
+- Giga Drain

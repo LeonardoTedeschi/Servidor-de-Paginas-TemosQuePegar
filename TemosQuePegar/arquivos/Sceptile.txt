@@ -1,0 +1,9 @@
+Sceptile @ Sceptilite
+Ability: Overgrow
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Timid Nature
+- Leaf Storm
+- Dragon Pulse
+- Protect
+- Leech Seed
